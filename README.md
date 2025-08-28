@@ -8,6 +8,10 @@ The goal is to practice the basics of Linux server setup and secure authenticati
 
 
 
+Project URL : " https://roadmap.sh/projects/ssh-remote-server-setup "
+
+
+
 ---
 
 
